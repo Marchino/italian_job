@@ -34,7 +34,6 @@ information please see [wikipedia](http://en.wikipedia.org/wiki/Value_added_tax_
 ## TODO
 
 * update specs
-* validate a field as codice fiscale OR partita iva
 
 ## License
 

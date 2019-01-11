@@ -1,6 +1,7 @@
 require "active_model"
 require "italian_job/validators/codice_fiscale_format"
 require "italian_job/validators/partita_iva_format"
+require "italian_job/validators/codice_fiscale_or_partita_iva_format"
 
 module ItalianJob
   module Rails
